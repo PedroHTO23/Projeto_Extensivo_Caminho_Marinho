@@ -6,7 +6,7 @@ Site informativo e visual sobre a organização **Caminho Marinho**, dedicada à
 
 O site é composto por 4 páginas principais:
 
-- **Página Inicial** (`pagina1.html`) — Apresentação da organização.
+- **Página Inicial** (`index.html`) — Apresentação da organização.
 - **Projetos** (`página2.html`) — Galeria de ações e atividades.
 - **Membros** (`pagina3.html`) — Equipe da organização.
 - **Contato** (`página4.html`) — Formulário e informações de contato.
